@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Clean n' Shiny Window Washin",
+    "description": "We get any grime and dirt out, down to the last detail. We usually charge $5 per small window and $10 for bigger/higher windows - but we never will charge more than $100. Online payments can be made through PayPal, CashApp, or Zelle.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/shinywash.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Window Washin Professionals",
+    "description": "Our passion to effectively solve problems mashes perfectly with our entrepreneurial spirit. Learning how to wash windows is the easy part - the work ethic and our attitude set us apart.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/wwash1.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "We Go The Extra Distance",
+    "description": "We always promise to be the hardest workin' window washers in the whole damn state. We get those hard to reach spots; we aren't afraid of super hot heat. Bring on your window washin' project and we'll take care of it - full spread.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/highwash.png",
       "width": 80,
       "height": 80
     }
