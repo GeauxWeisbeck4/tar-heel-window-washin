@@ -1,7 +1,7 @@
 ---
 title: "Zu Beloux"
 date: 2022-07-20T13:45:06+10:00
-image: "images/team/cristian-newman-94319-unsplash.jpg"
+image: "images/team/zulu.png"
 jobtitle: "Crazy Climbing Kitty"
 weight: 5
 ---

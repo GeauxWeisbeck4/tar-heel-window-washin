@@ -1,7 +1,7 @@
 ---
 title: "Lisa Heusner"
 date: 2022-07-20T10:47:58+10:00
-image: "images/team/sage-kirk-485982-unsplash.jpg"
+image: "images/team/lisawindow.png"
 jobtitle: "Managing Partner"
 linkedinurl: "https://www.linkedin.com/company/tarheeldevstudio"
 promoted: true

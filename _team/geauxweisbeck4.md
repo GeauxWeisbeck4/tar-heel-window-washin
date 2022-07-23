@@ -1,7 +1,7 @@
 ---
 title: "GeauxWeisbeck4"
 date: 2022-07-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
+image: "images/team/devdude.png"
 jobtitle: "Developer"
 linkedinurl: "https://www.geauxweisbeck4.dev/"
 weight: 3

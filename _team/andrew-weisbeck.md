@@ -1,7 +1,7 @@
 ---
 title: "Andrew Weisbeck"
 date: 2022-07-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/andrewwindow.png"
 jobtitle: "Co-Partner"
 linkedinurl: "https://www.linkedin.com/in/andrew-weisbeck-09542a7a/"
 promoted: true

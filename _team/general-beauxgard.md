@@ -1,7 +1,7 @@
 ---
 title: "General BEAUXgard"
 date: 2022-07-21T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/beauxcuddle.png"
 jobtitle: "Prince Cuddler"
 linkedinurl: ""
 weight: 7

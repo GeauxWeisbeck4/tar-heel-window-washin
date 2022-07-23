@@ -1,7 +1,7 @@
 ---
 title: "May May"
 date: 2022-07-20T13:44:55+10:00
-image: "images/team/michael-dam-258165-unsplash.jpg"
+image: "images/team/maymay.png"
 jobtitle: "Drama Queen Doggie"
 weight: 4
 ---
